@@ -28,3 +28,4 @@ def swap_elements(array5)
 end
 
 def kesha_maker()
+  array8 item
