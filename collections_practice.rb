@@ -50,7 +50,7 @@ def add_s(array11)
     else word + "s"
     end 
   end 
-  
+  add_s(["hand","feet", "knee", "table"])
 end
     
     
