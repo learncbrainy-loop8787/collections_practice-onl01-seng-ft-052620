@@ -39,3 +39,4 @@ def find_a(array9)
   end
 end
 
+sum_array
