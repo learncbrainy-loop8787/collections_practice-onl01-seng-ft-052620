@@ -35,5 +35,5 @@ end
 
 def find_maker(array9)
   array9.find_all do |lettera|
-    word[0] == "a"
+    lettera[0] == "a"
   end
