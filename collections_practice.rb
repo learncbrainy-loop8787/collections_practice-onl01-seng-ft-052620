@@ -17,7 +17,7 @@ end
 end
 sort_array_char_count(["dogs", "cat", "Horses"])
 
-def swap_elements(a,b)
+def swap_elements(array5)
          self[1], self[2] = self[2], self[1]
-    self
+    array5
     end
