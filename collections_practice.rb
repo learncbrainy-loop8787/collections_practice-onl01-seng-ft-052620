@@ -44,4 +44,5 @@ def sum_array(array10)
 end
 
 def add_s(array11)
+  sum = 10 
   array11
