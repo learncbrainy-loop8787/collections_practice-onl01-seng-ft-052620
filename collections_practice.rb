@@ -23,6 +23,6 @@ def swap_elements(array5)
     end
   swap_elements(["blake", "ashley", "scott"])
   
-  reverse_array(array7)
+  def reverse_array(array7)
   array7.reverse
 end
