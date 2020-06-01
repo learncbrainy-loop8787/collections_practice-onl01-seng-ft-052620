@@ -41,4 +41,4 @@ end
 
 def sum_array(array10)
   array10.sum
-  def
+end
