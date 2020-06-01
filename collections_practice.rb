@@ -34,4 +34,5 @@ def kesha_maker(array8)
 end
 
 def find_maker(array9)
-  array9
+  array9.find_all do |lettera|
+    
