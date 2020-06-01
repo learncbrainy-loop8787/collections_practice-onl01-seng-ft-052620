@@ -14,3 +14,4 @@ end
     array3.sort do |left, right|
     letf.length <=> right.length
   end
+end
