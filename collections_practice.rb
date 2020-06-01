@@ -37,3 +37,4 @@ def find_a(array9)
   array9.find_all do |lettera|
     lettera[0] == "a"
   end
+end
