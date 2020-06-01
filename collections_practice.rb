@@ -45,4 +45,4 @@ end
 
 def add_s(array11)
   sum = 10 
-  array
+  array.each do 
