@@ -39,4 +39,6 @@ def find_a(array9)
   end
 end
 
-sum_array
+def sum_array(array10)
+  array10.sum
+  def
