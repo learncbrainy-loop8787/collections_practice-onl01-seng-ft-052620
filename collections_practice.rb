@@ -15,3 +15,4 @@ end
     letf.length <=> right.length
   end
 end
+sort_array_char_count
