@@ -21,4 +21,4 @@ def swap_elements(array5)
          self[1], self[2] = self[2], self[1]
     array5 
     end
-  end
+  
