@@ -6,5 +6,6 @@ def sort_array_asc(array)
 end
 
 def sort_array_desc(array2)
-  
+  array.sort! {|x, y| y <=> x}
+end
   
