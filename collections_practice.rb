@@ -38,3 +38,4 @@ def find_a(array9)
     lettera[0] == "a"
   end
 end
+
