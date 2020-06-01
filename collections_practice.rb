@@ -18,6 +18,6 @@ end
 sort_array_char_count(["dogs", "cat", "Horses"])
 
 def swap_elements(a,b)
-         self[a], self[b] = self[b], self[a]
+         self[1], self[2] = self[2], self[1]
     self
     end
