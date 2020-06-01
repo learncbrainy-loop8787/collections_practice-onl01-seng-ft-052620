@@ -18,7 +18,7 @@ end
 sort_array_char_count(["dogs", "cat", "Horses"])
 
 def swap_elements(array5)
-         array[1], array[2] = array[2], array[1]
+         array5[1], array5[2] = array5[2], array5[1]
     array5 
     end
   swap_elements(["blake", "ashley", "scott"])
