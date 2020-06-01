@@ -44,5 +44,5 @@ def sum_array(array10)
 end
 
 def add_s(array11)
-  array.each do 
+  array.collect  do 
     
