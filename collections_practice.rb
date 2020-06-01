@@ -27,5 +27,6 @@ def swap_elements(array5)
   array7.reverse
 end
 
-def kesha_maker()
-  array8 each do |item|
+def kesha_maker(array8)
+  array8.each do |item|
+    
