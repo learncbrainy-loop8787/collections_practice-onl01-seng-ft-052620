@@ -11,5 +11,6 @@ def sort_array_desc(array2)
 end
   
   def sort_array_char_count(array3)
-    array3.sort 
+    array3.sort do left right
+    let <=> right
   end
