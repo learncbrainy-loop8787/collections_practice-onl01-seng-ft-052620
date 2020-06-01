@@ -9,4 +9,4 @@ def sort_array_desc(array2)
   array2.sort! {|x, y| y <=> x}
 end
   
-  
+  def sort_array_char_count()
