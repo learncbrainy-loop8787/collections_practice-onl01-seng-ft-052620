@@ -32,3 +32,6 @@ def kesha_maker(array8)
     item[2] = "$"
   end 
 end
+
+def find_maker(array9)
+  array9
