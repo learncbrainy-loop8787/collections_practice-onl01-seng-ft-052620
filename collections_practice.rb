@@ -11,4 +11,4 @@ def sort_array_desc(array2)
 end
   
   def sort_array_char_count(array3)
-    arr
+    array3.join
